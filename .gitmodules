@@ -1,0 +1,9 @@
+[submodule "infra/jenkins"]
+	path = infra/jenkins
+	url = https://github.com/jenkinsci/jenkins.git
+[submodule "infra/nginx-proxy-manager"]
+	path = infra/nginx-proxy-manager
+	url = https://github.com/NginxProxyManager/nginx-proxy-manager.git
+[submodule "dns/pi-hole"]
+	path = dns/pi-hole
+	url = https://github.com/pi-hole/pi-hole.git
